@@ -1,0 +1,4 @@
+github.com/akijura/post05 v0.0.0-20231014171406-559a71c25cac h1:2mfwJKmLU2OdAYzYEeTlQtITneCLcNdNS3uc2p3HKxA=
+github.com/akijura/post05 v0.0.0-20231014171406-559a71c25cac/go.mod h1:LcDNMLOBgHCHYS8NFvY3lypI9MD55D3bIVb9djZmTik=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
